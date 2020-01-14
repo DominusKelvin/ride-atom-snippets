@@ -1,0 +1,30 @@
+{
+  "name": "waves-ride-atom-snippets",
+  "version": "1.0.0",
+  "description": "Ride snippets to 🚀 my daily dApp development with Ride workflow",
+  "keywords": [
+    "atom",
+    "atom-extension",
+    "atom-ride",
+    "ride",
+    "ride-snippets",
+    "snippets",
+    "atom-snippets",
+    "waves",
+    "waves-snippets"
+  ],
+  "author": {
+    "name": "Kelvin Omereshone",
+    "email": "kelvinomereshone@gmail.com",
+    "url": "https://github.com/dominuskelvin"
+  },
+  "activationHooks": [
+    "language-ride:grammar-used"
+  ],
+  "repository": "https://github.com/dominuskelvin/waves-ride-atom-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {}
+}
