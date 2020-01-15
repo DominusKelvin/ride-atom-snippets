@@ -1,4 +1,4 @@
-# Vue Atom Snippets
+# Waves Ride Atom Snippets
 
 ## Description
 
